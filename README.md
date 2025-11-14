@@ -1,7 +1,7 @@
 <!-- Typing SVG Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Abdul+Moid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'Muhammad+Hassan" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,16 +29,16 @@
 ### 🏆 GitHub Badges
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdulmoid-20&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/abdulmoid-20?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/abdulmoid-20?label=Stars&style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=hassu2010&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/hassu2010?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/hassu2010?label=Stars&style=social" alt="GitHub Stars"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmoid-20\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
+![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
 
 ---
 
