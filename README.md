@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats
 
-![Muhammad Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
+![Muhammad Hassan GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassu2010\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### 🌐 Portfolio
 
-🔗 **Check out my portfolio:** [https://hassu2010.github.io/](https://hassu2010.github.io/)
+🔗 **Check out my Multimedia page:** [https://hassu2010.github.io/](https://hassu2010.github.io/)
 
 ---
 
