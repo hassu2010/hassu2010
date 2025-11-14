@@ -38,25 +38,25 @@
 
 ### 📊 GitHub Stats
 
-![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
+![Muhammad Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulmoid-20\&theme=radical\&hide_border=true\&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassu2010\&theme=radical\&hide_border=true\&border_radius=10)](https://git.io/streak-stats)
 
 ---
 
 ### 💡 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoid-20\&layout=compact\&theme=radical\&hide_border=true\&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassu2010\&layout=compact\&theme=radical\&hide_border=true\&border_radius=10)
 
 ---
 
 ### 🌐 Portfolio
 
-🔗 **Check out my portfolio:** [https://abdulmoid-20.github.io/AbdulMoid/](https://abdulmoid-20.github.io/AbdulMoid/)
+🔗 **Check out my portfolio:** [https://hassu2010.github.io/](https://hassu2010.github.io/)
 
 ---
 
